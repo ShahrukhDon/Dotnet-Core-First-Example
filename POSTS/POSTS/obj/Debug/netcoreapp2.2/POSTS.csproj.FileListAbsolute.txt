@@ -1,0 +1,14 @@
+C:\Users\SRK\Source\Repos\POSTS\POSTS\bin\Debug\netcoreapp2.2\POSTS.deps.json
+C:\Users\SRK\Source\Repos\POSTS\POSTS\bin\Debug\netcoreapp2.2\POSTS.runtimeconfig.json
+C:\Users\SRK\Source\Repos\POSTS\POSTS\bin\Debug\netcoreapp2.2\POSTS.runtimeconfig.dev.json
+C:\Users\SRK\Source\Repos\POSTS\POSTS\bin\Debug\netcoreapp2.2\POSTS.dll
+C:\Users\SRK\Source\Repos\POSTS\POSTS\bin\Debug\netcoreapp2.2\POSTS.pdb
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.csprojAssemblyReference.cache
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.csproj.CoreCompileInputs.cache
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.RazorAssemblyInfo.cache
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.RazorAssemblyInfo.cs
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.AssemblyInfoInputs.cache
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.AssemblyInfo.cs
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.RazorTargetAssemblyInfo.cache
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.dll
+C:\Users\SRK\Source\Repos\POSTS\POSTS\obj\Debug\netcoreapp2.2\POSTS.pdb
